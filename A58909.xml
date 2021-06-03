@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable advice to the Societies for Reformation of Manners</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58909</idno><idno type="EEBO-CITATION">12356443</idno>
+  <idno type="VID">60141</idno>
+  <idno type="EEBO-PROQUEST">2248584327</idno>
+  
+            <idno type="STC">Wing S2213A</idno>
+            <idno type="STC">ESTC R20657</idno>
+            <idno type="OCLC">12356443</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60141)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 647:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable advice to the Societies for Reformation of Manners</title>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Brab. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [1] at end.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Woodward, Josiah, 1660-1712. --  Account of the Societies for Reformation of Manners.</term>
+               <term type="corporate_name">Societies for the Reformation of Manners.</term>
+               <term type="topical_term">Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60141:1"/>
+            <pb facs="tcp:60141:1"/>
+            <p>Seasonable Advice TO THE SOCIETIES FOR <hi>Reformation of Manners.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Brab. Aylmer,</hi> a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Three Pigeons</hi> against the <hi>Royal Exchange</hi> in <hi>Cornhill.</hi> MDCXCIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:60141:2"/>
+            <pb n="3" facs="tcp:60141:2"/>
+            <head>Seasonable Advice TO THE SOCIETIES FOR <hi>Reformation of Manners.</hi>
+            </head>
+            <p>THOUGH there are large Complaints against the Debau<g ref="char:EOLhyphen"/>chery of the present Age; yet, blessed be God, Wick<g ref="char:EOLhyphen"/>edness is so far from being established by a Law, that the strictest Legal Methods are employed to restrain it.</p>
+            <pb n="4" facs="tcp:60141:3"/>
+            <p>His Majesty doth not on<g ref="char:EOLhyphen"/>ly discountenance Vice, by the virtuous Example of his own Sacred Person, but also by his Authority, in the <hi>Letters, Proclamations,</hi> and repeated <hi>Orders,</hi> issued thereupon. But, <hi>Quid Leges sine Moribus?</hi>— The best constituted Laws will be of no use without a due Exe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>If the Penalties of our Laws, through the Cowar<g ref="char:EOLhyphen"/>dice or Contrivance of In<g ref="char:EOLhyphen"/>ferior Magistrates, shall not be inflicted; Offenders will soon be insolent, but never reformed.</p>
+            <p>This very Consideration hath awakened the Zeal of
+<pb n="5" facs="tcp:60141:3"/>many Pious Persons; Who out of a due sense of their Duty to God and their Country, are designing a Method to reform these Abuses.</p>
+            <p>The Undertaking of these worthy Gentlemen is explained and vindicated by a much abler Pen. Those who are ignorant of the Design, may please to con<g ref="char:EOLhyphen"/>sult a late Tract with this Title: <hi>An Account of the Societies for Reformation of Manners in</hi> LONDON <hi>and</hi> WESTMINSTER, <hi>&amp;c.</hi> Pub<g ref="char:EOLhyphen"/>lished with the Approbati<g ref="char:EOLhyphen"/>on of a considerable Num<g ref="char:EOLhyphen"/>ber of the <hi>Lords Spiritual</hi> and <hi>Temporal,</hi> and Honou<g ref="char:EOLhyphen"/>rable
+<pb n="6" facs="tcp:60141:4"/>
+               <hi>Judges.</hi> Printed for <hi>B. Aylmer.</hi>
+            </p>
+            <p>I shall not enlarge in commendation of so gene<g ref="char:EOLhyphen"/>rous a Work. But shall leave that satisfaction to God and their own Consci<g ref="char:EOLhyphen"/>ences. Amidst all those checks and discourage<g ref="char:EOLhyphen"/>ments which they meet with in a degenerate Age, may they still be supported with this Testimony of their Consciences, <hi>That in simplicity and godly sincerity they have had their conver<g ref="char:EOLhyphen"/>sation in the world.</hi> And may all their toilsome La<g ref="char:EOLhyphen"/>bours in the Cause of God and Religion, be finally re<g ref="char:EOLhyphen"/>warded in the pronoun<g ref="char:EOLhyphen"/>cing
+<pb n="7" facs="tcp:60141:4"/>of that Blessed Sen<g ref="char:EOLhyphen"/>tence, <hi>Well done, good and faithful servant; —enter thou into the joy of thy Lord.</hi>
+            </p>
+            <p>And that they may not fail of this Blessed Reward in the next World (though they must expect their share of Troubles in this) I shall with a faithful plainness mind them of their Duty in these <hi>four</hi> In<g ref="char:EOLhyphen"/>stances. 1. <hi>Innocency.</hi> 2. <hi>In<g ref="char:EOLhyphen"/>dustry.</hi> 3. <hi>Courage.</hi> 4. <hi>Cau<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p n="1">1. <hi>Innocency.</hi> By which word I only denote, <hi>A Freedom from those Vices which they reprove in others.</hi>
+            </p>
+            <pb n="8" facs="tcp:60141:5"/>
+            <p>For he who is guilty of those Crimes which he pretends to correct, doth inevitably expose both his Person and his Cause. It being a noted Observa<g ref="char:EOLhyphen"/>tion, That the Reproofs of a Guilty Man are both Undecent and In<g ref="char:EOLhyphen"/>effectual.</p>
+            <p>
+               <hi>First,</hi> It is very <hi>Ʋndecent</hi> that <hi>Vice should correct Sin.</hi> And when those who are tardy themselves, will pre<g ref="char:EOLhyphen"/>sume to be medling, there are Proverbs against such Reformers, and very severe ones. The Expostulation of St. <hi>Paul</hi> is sharp and pungent, <hi>Thou therefore
+<pb n="9" facs="tcp:60141:5"/>which teacheth another, teachest thou not thy self? Thou that sayest a man should not commit adultery, dost thou commit adultery?</hi> And so in any other in<g ref="char:EOLhyphen"/>stance as the Case may re<g ref="char:EOLhyphen"/>quire.</p>
+            <p>But such Reproofs are not only <hi>Ʋndecent,</hi> but al<g ref="char:EOLhyphen"/>so for the most part,</p>
+            <p n="2">2. <hi>Ineffectual.</hi> And are so far from being regarded, or making any Impression in order to amendment, that they only exasperate and gall their guilt. For Man is naturally a proud Creature; and as such is most impatient of Con<g ref="char:EOLhyphen"/>tradiction and Reproof.
+<pb n="10" facs="tcp:60141:6"/>Those who are unable to vindicate themselves, will recriminate their Accusers. And if they can but find the least suspicion of Guilt, they will not spare them; but will contrive to expose them, with as much scorn and contempt as rage and malice can suggest.</p>
+            <p>And in this the Devil, that great Accuser of the Brethren, will not fail to assist them. For that <hi>roar<g ref="char:EOLhyphen"/>ing Lyon, who walketh about seeking whom he may devour,</hi> is most inveterate and out<g ref="char:EOLhyphen"/>ragious against those pious good Men, those lovers of Souls, who are active and industrious to pluck the
+<pb n="11" facs="tcp:60141:6"/>Prey out of his Teeth. And if by all his ensnaring Arts and Temptations he can so far prevail over the Weak<g ref="char:EOLhyphen"/>ness of Human Nature, as to make them guilty of some scandalous Practice; he will then triumph in their Fall: And having thus exposed them to Publick Censure, he will quench and divert their former Zeal, and make them use<g ref="char:EOLhyphen"/>less to the World.</p>
+            <p>Be not therefore confi<g ref="char:EOLhyphen"/>dent of your own Strength. <hi>Be not high-minded, but fear.</hi> And let it be your daily Prayer to the God of all Grace, <hi>to make you perfect, stablish, strengthen, settle
+<pb n="12" facs="tcp:60141:7"/>you,</hi> 1 Pet. 5.10. <hi>That ye may be blameless and harm<g ref="char:EOLhyphen"/>less, the sons of God with<g ref="char:EOLhyphen"/>out rebuke, in the midst of a crooked and perverse Na<g ref="char:EOLhyphen"/>tion, among whom ye shine as lights in the world,</hi> Phil. 2.15.</p>
+            <p>Another Instance I will take the freedom to re<g ref="char:EOLhyphen"/>mind you of is,</p>
+            <p n="2">2. <hi>Industry.</hi> You cannot but be sensible that there is a toil and fatigue in your present Undertaking: And it will cost some Pains and Drudging to perfect your Design. And therefore 'tis prudence to sit down at the first, and count the Cost. To consider, how far you
+<pb n="13" facs="tcp:60141:7"/>are inclined to deny your selves for the sake of God and your Duty. Whether you are contented to part with your Ease and your Pleasure; and perhaps in some instance, your Profit also for the benefit of others.</p>
+            <p>But I will not enforce this Topick any further. For I do not suspect your Sincerity in the Case. I know you are truly sensi<g ref="char:EOLhyphen"/>ble, that we are not born to enjoy our selves, by gra<g ref="char:EOLhyphen"/>tifying our sensual Inclina<g ref="char:EOLhyphen"/>tions; but that we are ob<g ref="char:EOLhyphen"/>liged to govern our Passi<g ref="char:EOLhyphen"/>ons and Appetites by Rea<g ref="char:EOLhyphen"/>son, and then to be active
+<pb n="14" facs="tcp:60141:8"/>and diligent for the benefit of others. To be willing on all occasions to do what good we can; and accord<g ref="char:EOLhyphen"/>ing to our Power and Ca<g ref="char:EOLhyphen"/>pacity to be useful to the World. For this Life is on<g ref="char:EOLhyphen"/>ly a State of Probation and Trial, in order to the next. And for your encourage<g ref="char:EOLhyphen"/>ment, let me remind you, That they who have done the greatest Service to God in this World, and impro<g ref="char:EOLhyphen"/>ved their Time and Talents to the best advantage, and have done the most good to Mankind; such Persons are qualified for the great<g ref="char:EOLhyphen"/>est Rewards, for the richest and brightest Crowns.</p>
+            <pb n="15" facs="tcp:60141:8"/>
+            <p>Imitate therefore your <hi>Blessed</hi> Saviour, <hi>who went about doing good:</hi> And with unwearied diligence solli<g ref="char:EOLhyphen"/>cited the Reformation of the most obstinate Sinners. And though the World may hate and malign, cen<g ref="char:EOLhyphen"/>sure and oppose you, as a sort of over-busie pragma<g ref="char:EOLhyphen"/>tical People; Yet <hi>be of good comfort,</hi> our <hi>B.</hi> Savi<g ref="char:EOLhyphen"/>our he hath <hi>overcome the world. Consider him who en<g ref="char:EOLhyphen"/>dured</hi> so many Affronts, and so much <hi>contradiction of Sinners against himself, lest you be weary and faint in your minds.</hi> Which brings me to my <hi>Third</hi> Instance or Qualification,</p>
+            <pb n="16" facs="tcp:60141:9"/>
+            <p n="3">3. <hi>Courage.</hi> By which I denote, <hi>A firmness and re<g ref="char:EOLhyphen"/>solution of mind, not to be daunted with any Opposition.</hi> The which Heroic Temper is little less than necessary in the present Case. For be assured, the Devil and his Instruments will be ve<g ref="char:EOLhyphen"/>ry active and sollicitous to baffle your Design, and to make it abortive. Be not you therefore wanting in a decent briskness to coun<g ref="char:EOLhyphen"/>termine and supplant them. And though you may some<g ref="char:EOLhyphen"/>times meet with unseason<g ref="char:EOLhyphen"/>able Rebukes, and may be clouded with the frowns of Debauched Greatness; yet fear not the Face of Men;
+<pb n="17" facs="tcp:60141:9"/>
+               <hi>For greater is he that is in you, than he that is in the world.</hi> You have not only the Authority of his Maje<g ref="char:EOLhyphen"/>sty, and the Laws on your side; But, which is far more encouraging, the Power and Providence of God to support you. And <hi>if God be for you, who can be against you?</hi>
+            </p>
+            <p>However, since Zeal is an active Principle, and like Fire, is very destru<g ref="char:EOLhyphen"/>ctive when it exceeds its Bounds; that <hi>Yours</hi> may be regular, and governed by Prudence, I shall pro<g ref="char:EOLhyphen"/>ceed to my <hi>Fourth</hi> Particu<g ref="char:EOLhyphen"/>lar, <hi>viz.</hi>
+            </p>
+            <pb n="18" facs="tcp:60141:10"/>
+            <p n="4">4. <hi>Caution.</hi> Which I will take the freedom to com<g ref="char:EOLhyphen"/>mend to you in these fol<g ref="char:EOLhyphen"/>lowing Instances.</p>
+            <p n="1">1. Avoid <hi>Popularity.</hi> Do not value your Selves upon the Character of Reform<g ref="char:EOLhyphen"/>ers. Such a Conce<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may not only degenerate into Spiritual Pride, and as such be destructive to your own Souls; but also will <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pose you to the Observation of Detractors, who will en<g ref="char:EOLhyphen"/>viously remark, not only your most innocent Acti<g ref="char:EOLhyphen"/>ons, but also your very Looks and Gestures; where<g ref="char:EOLhyphen"/>by if they do not divert you from your Design, and
+<pb n="19" facs="tcp:60141:10"/>tempt you to <hi>follow a multi<g ref="char:EOLhyphen"/>tude to do evil;</hi> they will at least be very trouble<g ref="char:EOLhyphen"/>some and uneasie to you.</p>
+            <p>In Publick Conversation therefore, and in promiscu<g ref="char:EOLhyphen"/>ous Company (unless you have the Ascendant, and can by your Authority turn the stream of Discourse as you please) be nor too fre<g ref="char:EOLhyphen"/>quent in your Complaints; or in making observations on the wickedness of o<g ref="char:EOLhyphen"/>thers. For all Truths are not to be spoken at all Times, nor in all Compa<g ref="char:EOLhyphen"/>nies. <hi>Cast not Pearls before Swine,</hi> was the Admonition of our B. Saviour; and is a full proof of what I now
+<pb n="20" facs="tcp:60141:11"/>suggest. Intimating; That there are Seasons when the greatest Offenders are not to be reproved; but must be let alone till a more fa<g ref="char:EOLhyphen"/>vourable Juncture.</p>
+            <p n="2">2. Avoid <hi>Affectation</hi> in your Language, or in your Looks. Do not study a <hi>Shibboleth,</hi> or a set of af<g ref="char:EOLhyphen"/>fected Phrases. Be man<g ref="char:EOLhyphen"/>ly in your Conversation. Speak and look like Men. And by such Masculine and acceptable Behaviour, <hi>cut off occasion from those who desire occasion against you.</hi>
+            </p>
+            <p n="3">3. Be <hi>Moderate</hi> in your Proceedings. Be not rash and violent in your Me<g ref="char:EOLhyphen"/>thods of Reformation. Be
+<pb n="21" facs="tcp:60141:11"/>contented to go on gently, and by degrees: And ac<g ref="char:EOLhyphen"/>cording to our blunt Pro<g ref="char:EOLhyphen"/>verb, <hi>Drive the Nail as it will go.</hi> Be not discouraged, though you cannot instant<g ref="char:EOLhyphen"/>ly amend all that is amiss. To correct Abuses is a Work of Time and Pa<g ref="char:EOLhyphen"/>tience. Do what Good you can at present; and silent<g ref="char:EOLhyphen"/>ly bewail what you cannot yet amend. And then be assured, that God who knows our weakness, and the Difficulties you strug<g ref="char:EOLhyphen"/>gle with, will graciously accept the <hi>Will</hi> for the <hi>Deed.</hi>
+            </p>
+            <p n="4">4. Be <hi>Ʋnanimous.</hi> Let not Difference in Opinion dis<g ref="char:EOLhyphen"/>order
+<pb n="22" facs="tcp:60141:12"/>your Proceedings.</p>
+            <p>
+               <hi>Churchmen</hi> and <hi>Dissenters</hi> (as for distinction-sake I am forced to call them) do both honestly join in this good Work.</p>
+            <p>It were indeed heartily to be wished, that these di<g ref="char:EOLhyphen"/>stinguishing Names were utterly abolished: That all Protestants were perfectly united. And O that such an Expedient could be found as might effectually do it. We hope and breath for it. In <hi>th' Interim,</hi> let not the Devil (who seeks the ruin of you both) make advan<g ref="char:EOLhyphen"/>tage of your Divisions. Why may not those who differ in Judgment, be u<g ref="char:EOLhyphen"/>nited
+<pb n="23" facs="tcp:60141:12"/>in Affection? And therefore (to express my self in Military Language) though we are differently Regimented, yet let us all unanimously fight under one General, <hi>the Captain of our Salvation,</hi> to destroy the Devil's Kingdom. <hi>Be strong and of a good Courage. And the God of Peace shall bruise Satan under your feet shortly.</hi>
+            </p>
+            <p>
+               <hi>Finally, Brethren, fare<g ref="char:EOLhyphen"/>well. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:60141:13"/>
+            <head>Books Printed for <hi>B. Aylmer.</hi>
+            </head>
+            <list>
+               <item>A Method of Daily Devotion fitted to the meanest Capa<g ref="char:EOLhyphen"/>cities; in 24<seg rend="sup">o</seg>. <hi>Price</hi> 2 d.</item>
+               <item>A Method of Devotion for the Lord's-Day; fitted to the meanest Capacities, in 24<seg rend="sup">o</seg>. <hi>Price</hi> 2 d.</item>
+               <item>A Discourse against Drunkenness, Swearing and Cursing; in 24<seg rend="sup">o</seg>. <hi>Price</hi> 2 d.</item>
+               <item>A Brief Exhortation to the Holy Communion, with the Nature and Measure of Preparation con<g ref="char:EOLhyphen"/>cerning it; in 24<seg rend="sup">o</seg>. <hi>Price</hi> 2 d.</item>
+               <item>
+                  <hi>These four by the Reverend Dr.</hi> Assheton.</item>
+               <item>A Persuasive to Frequent Commu<g ref="char:EOLhyphen"/>nion in the holy Sacrament of the Lords Supper: by his Grace <hi>John</hi> late Lord Arch-Bishop of <hi>Canter<g ref="char:EOLhyphen"/>bury;</hi> the 13th Edit. 8<seg rend="sup">o</seg>. <hi>Price</hi> 3 d.</item>
+               <item>A Familiar Guide to the right and prosi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Receiving of the Lord's Supper, wherein also the Way and Method of our Salvation is briefly and plainly Declar'd, sui<g ref="char:EOLhyphen"/>tably applied, and fit to be an<g ref="char:EOLhyphen"/>nexed to the Christian Moniter. By <hi>Theoph. Dorrington.</hi> 12<seg rend="sup">o</seg>. <hi>Pr.</hi> 4. d.</item>
+            </list>
+            <p>
+               <hi>These are the Prizes single; but cheaper to those who are so Cha<g ref="char:EOLhyphen"/>ritable to give away Numbers.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
